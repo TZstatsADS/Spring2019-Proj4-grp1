@@ -18,7 +18,7 @@ Term: Spring 2019
 	
 **Contribution statement**: All team members approve our work presented in this GitHub repository including this contributions statement. The contribution for each team member is following:
 
-+ Shu, Jason: Studied performance measurement.
++ Shu, Jason: Studied performance measurement, attempted debugging.
 + Xu, Haiqing: Read papers and listed outlines for error correction algorithm. Implemented error correction with context. Helped debugging and improved coding. 
 + Yang, Xi:  Read papers and listed out lines for error detection algorithm. Implemented error detection algorithm and error correction without context. Helped debugging and improved coding. Prepared slides and presentation to the class.
 + Zhang, Yue: Read papers and listed outlines for error correction algorithm. Implemented performance measurement. Helped debugging and improved coding.
