@@ -18,11 +18,11 @@ Term: Spring 2019
 	
 **Contribution statement**: All team members approve our work presented in this GitHub repository including this contributions statement. The contribution for each team member is following:
 
-+ Shu, Jason: Researched performance measurement.
-+ Xu, Haiqing: Read the paper for D2 and C4 and researched algorithms. Implemented error correction for GT method, helped debugging and improved coding. 
-+ Yang, Xi: Implemented error detection and error correction, including confusion matrix, MLE and ELE mothod, helped debugging and improved coding. Prepared slides and presentation to the class.
-+ Zhang, Yue: Read the paper for D2 and C4 and researched algorithms. Implemented performance measurement, helped debugging and improved coding.
-+ Zhang, Yun: Read the paper for D2 and C4 and researched algorithms, helped debugging and improved coding. Edited github homepage.
++ Shu, Jason: Studied performance measurement.
++ Xu, Haiqing: Read papers and listed outlines for error correction algorithm. Implemented error correction algorithm. Helped debugging and improved coding. 
++ Yang, Xi:  Read papers and listed out lines for error detection algorithm. Implemented error detection algorithm and wrote wrap-up function in error correction. Helped debugging and improved coding. Prepared slides and presentation to the class.
++ Zhang, Yue: Read papers and listed outlines for error correction algorithm. Implemented performance measurement. Helped debugging and improved coding.
++ Zhang, Yun: Read papers and listed outlines for error correction algorithm. Helped debugging and improved coding. Edited github homepage.
 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
